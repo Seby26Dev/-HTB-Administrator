@@ -220,10 +220,10 @@ evil-winrm -i 10.10.11.42 -u 'emily' -p 'UXLCI5iETUsIBoFVTj8yQFKoHjXmb'
 
 <img width="1413" height="734" alt="image" src="https://github.com/user-attachments/assets/32236007-2b87-4486-8847-3783cbb79e55" />
 
-### First i try to type out the desktop of Ethan , but was emplty , so ...
+### First i try to type out the desktop of Ethan , but was empty , so ...
 
 
-### We use a targeted Kerberos attack with the fallow cmd : https://github.com/ShutdownRepo/targetedKerberoast
+### We use a targeted Kerberos attack with the follow cmd : https://github.com/ShutdownRepo/targetedKerberoast
 
 ```
 git clone https://github.com/ShutdownRepo/targetedKerberoast.git
